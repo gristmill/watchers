@@ -9,7 +9,7 @@ This is an extremely trivial test app written using [RubyMotion](http://rubymoti
 _You must have a registered copy of RubyMotion installed in order to compile and run this application._
 
 ```
-git clone
+git clone git@github.com:gristmill/watchers.git
 cd watchers
 bundle
 rake
